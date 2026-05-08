@@ -1,0 +1,6 @@
+{
+    "nombre": "M2_T09_8_cursos_multiples_optimos_parciales",
+    "descripcion": "Test mediano con 8 cursos donde existen múltiples óptimos dentro de grupos de cursos del mismo tamaño.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 124
+}

@@ -1,0 +1,6 @@
+{
+    "nombre": "M2_T07_6_cursos_con_libres",
+    "descripcion": "Test mediano con 6 cursos donde todos los cursos del bloque 1 tienen estudiantes libres.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 0
+}

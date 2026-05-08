@@ -1,0 +1,6 @@
+{
+    "nombre": "M2_T06_5_cursos_capacidades_heterogeneas",
+    "descripcion": "Test mediano con 5 cursos y capacidades heterogéneas. Las capacidades fuerzan una asignación casi determinada.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 20
+}

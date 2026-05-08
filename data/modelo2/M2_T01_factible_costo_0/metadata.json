@@ -1,0 +1,6 @@
+{
+    "nombre": "M2_T01_factible_costo_0",
+    "descripcion": "Caso factible donde todos los estudiantes pueden quedarse en la misma sala.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 0
+}

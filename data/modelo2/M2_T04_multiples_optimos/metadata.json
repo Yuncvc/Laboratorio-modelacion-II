@@ -1,0 +1,6 @@
+{
+    "nombre": "M2_T04_multiples_optimos",
+    "descripcion": "Existen varias asignaciones óptimas con el mismo costo.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 30
+}

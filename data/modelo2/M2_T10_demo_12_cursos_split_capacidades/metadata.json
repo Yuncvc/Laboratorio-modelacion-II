@@ -1,0 +1,6 @@
+{
+    "nombre": "M2_T10_demo_12_cursos_split_capacidades",
+    "descripcion": "Caso demostrativo con 12 cursos, 12 salas, capacidades heterogéneas y flujos divididos.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 195
+}

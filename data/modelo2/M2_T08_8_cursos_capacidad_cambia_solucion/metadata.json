@@ -1,0 +1,6 @@
+{
+    "nombre": "M2_T08_8_cursos_capacidad_cambia_solucion",
+    "descripcion": "Test mediano con 8 cursos donde las capacidades fuerzan una solución más costosa.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 80
+}
