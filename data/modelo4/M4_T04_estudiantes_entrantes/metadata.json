@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T04",
+  "proposito": "Verificar que estudiantes entrantes aumentan el tamaño del curso del bloque 2, pero no generan costo.",
+  "status_esperado": "OPTIMAL",
+  "costo_esperado": 0
+}

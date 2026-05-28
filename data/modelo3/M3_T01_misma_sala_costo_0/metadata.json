@@ -1,0 +1,6 @@
+{
+    "nombre": "M3_T01_misma_sala_costo_0",
+    "descripcion": "Todos los estudiantes permanecen en la misma sala. Costo esperado: 0.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 0
+}

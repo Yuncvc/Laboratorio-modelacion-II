@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T06",
+  "proposito": "Verificar que entrantes y salientes no generan costo directo, pero sí pueden cambiar el óptimo por capacidad.",
+  "status_esperado": "OPTIMAL",
+  "costo_esperado": 120
+}

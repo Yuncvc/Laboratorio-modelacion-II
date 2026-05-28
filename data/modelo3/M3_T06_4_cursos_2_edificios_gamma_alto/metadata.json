@@ -1,0 +1,6 @@
+{
+    "nombre": "M3_T06_4_cursos_2_edificios_gamma_alto",
+    "descripcion": "4 cursos en 2 edificios. gamma=10 entre edificios. Capacidades fuerzan intercambio dentro del Edificio A. Nunca conviene cruzar de edificio. Costo esperado: 20.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 20
+}

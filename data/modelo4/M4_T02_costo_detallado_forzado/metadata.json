@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T02",
+  "proposito": "Verificar que se utiliza el costo detallado sala-sala y no un costo binario.",
+  "status_esperado": "OPTIMAL",
+  "costo_esperado": 120
+}

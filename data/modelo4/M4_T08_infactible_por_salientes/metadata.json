@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T08",
+  "proposito": "Verificar infactibilidad cuando estudiantes salientes hacen que un curso del bloque 1 no quepa en ninguna sala.",
+  "status_esperado": "INFEASIBLE",
+  "costo_esperado": null
+}

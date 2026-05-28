@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T03",
+  "proposito": "Verificar que el modelo escoge las salas de menor costo según la matriz detallada.",
+  "status_esperado": "OPTIMAL",
+  "costo_esperado": 8
+}

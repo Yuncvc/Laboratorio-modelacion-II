@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T05",
+  "proposito": "Verificar que estudiantes salientes afectan la capacidad del bloque 1, pero no generan costo.",
+  "status_esperado": "OPTIMAL",
+  "costo_esperado": 0
+}

@@ -1,0 +1,5 @@
+edificio_origen,edificio_destino,gamma
+A,A,1
+A,B,4
+B,A,4
+B,B,1

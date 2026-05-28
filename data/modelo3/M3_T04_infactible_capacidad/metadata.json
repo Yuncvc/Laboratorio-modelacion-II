@@ -1,0 +1,6 @@
+{
+    "nombre": "M3_T04_infactible_capacidad",
+    "descripcion": "Curso i1 tiene tamaño 60 pero la sala más grande tiene cap 50. INFEASIBLE.",
+    "expected_status": "INFEASIBLE",
+    "expected_obj": null
+}

@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T09",
+  "proposito": "Dejar una matriz de costos incompleta para probar posteriormente la validación.",
+  "status_esperado": "ERROR_VALIDACION",
+  "costo_esperado": null
+}

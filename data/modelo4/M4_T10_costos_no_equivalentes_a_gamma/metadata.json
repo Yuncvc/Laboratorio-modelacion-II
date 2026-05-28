@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T10",
+  "proposito": "Verificar que el Modelo 4 usa directamente la matriz sala-sala, incluso si una sala de otro edificio es más barata.",
+  "status_esperado": "OPTIMAL",
+  "costo_esperado": 16
+}

@@ -1,0 +1,7 @@
+{
+  "modelo": 4,
+  "test": "M4_T01",
+  "proposito": "Verificar que permanecer en la misma sala tiene costo 0.",
+  "status_esperado": "OPTIMAL",
+  "costo_esperado": 0
+}

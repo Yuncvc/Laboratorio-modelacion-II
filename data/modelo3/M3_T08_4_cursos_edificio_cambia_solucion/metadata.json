@@ -1,0 +1,6 @@
+{
+    "nombre": "M3_T08_4_cursos_edificio_cambia_solucion",
+    "descripcion": "Flujos cruzados con 4 salas en 2 edificios y gamma=2. El modelo asigna i1 y k1 a la misma sala (r1 o r3) para minimizar costo. Solo los flujos cruzados de 10 est. cada uno cambian de sala. Costo esperado: 20.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 20
+}

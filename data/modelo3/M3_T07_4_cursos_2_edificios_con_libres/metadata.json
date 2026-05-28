@@ -1,0 +1,6 @@
+{
+    "nombre": "M3_T07_4_cursos_2_edificios_con_libres",
+    "descripcion": "4 cursos en 2 edificios con libres. Todos permanecen en la misma sala. Costo: 0.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 0
+}

@@ -1,0 +1,6 @@
+{
+    "nombre": "M3_T09_4_cursos_4_edificios_cruce_forzado",
+    "descripcion": "4 cursos en 4 edificios distintos. Flujos directos i→k. El modelo asigna cada k a la misma sala que su i → costo 0. Verifica que el modelo maneja múltiples edificios correctamente.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 0
+}
