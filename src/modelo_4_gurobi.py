@@ -23,10 +23,10 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 # ============================================================
 
 try:
-    from .validar_data_modelo_4 import validar_instancia_modelo_4
+    from .validar_data_4 import validar_instancia_modelo_4
 except ImportError:
     try:
-        from validar_data_modelo_4 import validar_instancia_modelo_4
+        from validar_data_4 import validar_instancia_modelo_4
     except ImportError:
         validar_instancia_modelo_4 = None
 

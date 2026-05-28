@@ -1,0 +1,6 @@
+{
+    "nombre": "M3_T09_6_cursos_3_edificios_multiples_optimos",
+    "descripcion": "6 cursos en 3 edificios con flujos simétricos. gamma=8 evita cruces. Múltiples óptimos dentro de cada edificio. Costo esperado: 102.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 102
+}

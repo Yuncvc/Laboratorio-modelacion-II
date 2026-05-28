@@ -1,6 +1,6 @@
 {
     "nombre": "M3_T02_mismo_edificio_costo_1",
-    "descripcion": "Flujos cruzados dentro del mismo edificio. Capacidades exactas fuerzan i1→r1 y k1→r1. 30 est. de i1 van a k2(r2): cambian. 30 est. de i2 van a k1(r1): cambian. Costo = 60.",
+    "descripcion": "Flujos cruzados dentro del mismo edificio. Costo = 60.",
     "expected_status": "OPTIMAL",
     "expected_obj": 60
 }

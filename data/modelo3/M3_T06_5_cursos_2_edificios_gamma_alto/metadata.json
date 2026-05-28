@@ -1,0 +1,6 @@
+{
+    "nombre": "M3_T06_5_cursos_2_edificios_gamma_alto",
+    "descripcion": "5 cursos en 2 edificios. gamma=8 evita cruces. Capacidades fuerzan intercambio en A. Costo esperado: 20.",
+    "expected_status": "OPTIMAL",
+    "expected_obj": 20
+}

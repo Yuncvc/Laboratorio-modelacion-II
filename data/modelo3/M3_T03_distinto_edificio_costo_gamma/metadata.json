@@ -1,6 +1,6 @@
 {
     "nombre": "M3_T03_distinto_edificio_costo_gamma",
-    "descripcion": "i1 va a r3(B) con k1 → costo 0. i2 va a una sala de A, sus 10 est. de flujo cruzan A→B → 10*3=30. Verifica que gamma se aplica correctamente al cruce. Costo = 30.",
+    "descripcion": "Parte del flujo cruza de edificio A a B. Costo = 10 * gamma(A,B) = 10 * 3 = 30.",
     "expected_status": "OPTIMAL",
     "expected_obj": 30
 }
