@@ -1,0 +1,11 @@
+{
+  "instancia": "M4_E16",
+  "n_random_exitosas": 10,
+  "costo_azar_promedio": 6858.8076,
+  "costo_azar_min": 6200.2847,
+  "costo_azar_max": 7779.4005,
+  "costo_azar_std": 432.5767,
+  "estudiantes_misma_sala_azar_promedio": 36.8,
+  "estudiantes_mismo_edificio_azar_promedio": 110.5,
+  "estudiantes_cambio_edificio_azar_promedio": 414.7
+}

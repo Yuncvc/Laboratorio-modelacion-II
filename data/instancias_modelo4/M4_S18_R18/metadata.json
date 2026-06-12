@@ -1,0 +1,17 @@
+{
+  "nombre_instancia": "M4_S18_R18",
+  "familia": "B_sobreoferta",
+  "I": 18,
+  "K": 18,
+  "R": 18,
+  "edificios": 4,
+  "carreras": 4,
+  "time_limit": 600,
+  "seed": 201,
+  "seed_efectiva": 201,
+  "total_libres": 56,
+  "total_entrantes": 31,
+  "descripcion_costos": "costo_final = distancia_euclidiana/10.0 + penalizacion; 0 misma sala, 0.5 mismo piso, 2.0 distinto piso, 6.0 cambio de edificio. coord_z = piso * 4.0.",
+  "descripcion_flujos": "Pesos multinomiales por afinidad academica: 8.0 misma carrera y anio, 2.0 misma carrera distinto anio, 0.3 distinta carrera. Libres por curso B1: fraccion uniforme en (0.03, 0.15).",
+  "descripcion_entrantes": "Estudiantes entrantes llegan al bloque 2 sin clases en el bloque 1; no generan costo pero suman al tamano del curso B2 (sum_i f_ik + entrantes_k = tamano_k). Fraccion uniforme en (0.0, 0.2) del flujo entrante."
+}

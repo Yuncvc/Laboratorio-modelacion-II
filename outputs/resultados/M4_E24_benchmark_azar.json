@@ -1,0 +1,11 @@
+{
+  "instancia": "M4_E24",
+  "n_random_exitosas": 10,
+  "costo_azar_promedio": 10336.257,
+  "costo_azar_min": 9796.8459,
+  "costo_azar_max": 10914.9239,
+  "costo_azar_std": 360.2713,
+  "estudiantes_misma_sala_azar_promedio": 32.5,
+  "estudiantes_mismo_edificio_azar_promedio": 130.9,
+  "estudiantes_cambio_edificio_azar_promedio": 641.6
+}

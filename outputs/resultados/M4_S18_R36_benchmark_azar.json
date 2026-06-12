@@ -1,0 +1,11 @@
+{
+  "instancia": "M4_S18_R36",
+  "n_random_exitosas": 10,
+  "costo_azar_promedio": 7991.3698,
+  "costo_azar_min": 7374.6446,
+  "costo_azar_max": 8839.7844,
+  "costo_azar_std": 421.959,
+  "estudiantes_misma_sala_azar_promedio": 12.7,
+  "estudiantes_mismo_edificio_azar_promedio": 126.2,
+  "estudiantes_cambio_edificio_azar_promedio": 468.1
+}

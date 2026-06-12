@@ -1,0 +1,13 @@
+sala_id,edificio,piso,capacidad,tipo_sala,coord_x,coord_y,coord_z
+r1,E1,1,40,auditorio,5.0,5.0,4.0
+r2,E2,1,60,laboratorio,75.0,5.0,4.0
+r3,E3,1,35,auditorio,145.0,5.0,4.0
+r4,E1,1,45,laboratorio,13.0,5.0,4.0
+r5,E2,1,50,catedra,83.0,5.0,4.0
+r6,E3,1,45,auditorio,153.0,5.0,4.0
+r7,E1,1,60,auditorio,5.0,13.0,4.0
+r8,E2,1,35,laboratorio,75.0,13.0,4.0
+r9,E3,1,35,auditorio,145.0,13.0,4.0
+r10,E1,2,50,catedra,5.0,5.0,8.0
+r11,E2,2,60,auditorio,75.0,5.0,8.0
+r12,E3,2,40,auditorio,145.0,5.0,8.0
